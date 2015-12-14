@@ -41,7 +41,7 @@ Each syntax mode xml needs to contain one SyntaxMode tag. All other nodes are pl
 </SyntaxMode>
 ```
 
-Note: It can be specified more than one mime type, seperated by ';'.
+Note: It can be specified more than one mime type, separated by ';'.
 
 ### Mime Types
 
